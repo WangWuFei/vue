@@ -1,0 +1,13 @@
+.window-size{
+  position: absolute;
+  width: 30%;
+  height: 70%;
+  border:2px solid;
+  border-radius:10px;
+  margin-left: 60%;
+  margin-top: 10%;
+  background:white;
+  filter:alpha(opacity=50);  /*支持 IE 浏览器*/
+  -moz-opacity:0.50; /*支持 FireFox 浏览器*/
+  opacity:0.3;
+}
